@@ -1,5 +1,7 @@
 # Phil Anderson's Blog
 
+***This site is now archive and deprecated.  all content will be archived and any valuable content will be migrated to new site at https://philanderson.uk created with Bolt AI for a much more fluid and dynamic site***
+
 
 ## October 29, 2019
 
